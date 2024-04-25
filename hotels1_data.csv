@@ -1,0 +1,48 @@
+name,location,total_available_rooms,total_available_beds,facilities,rating,is_pet_friendly,Standard_beds,Standard_rooms,Deluxe_rooms,Deluxe_beds,Executive_Suite_rooms,Executive_Suite_beds,Single_rooms,Single_beds,Double_rooms,Double_beds,Family_Suite_rooms,Family_Suite_beds,Triple_rooms,Triple_beds,Standard_price,Deluxe_price,Executive_Suite_price,Single_price,Double_price,Family_Suite_price,Triple_price
+Four Seasons Hotel Cairo at Nile Plaza,Cairo,30,5,Pool,3,No,10,11,29,15,29,48,18,52,16,35,18,17,15,25,370,1150,5334,673,1556,3371,4609
+Sofitel Cairo Nile El Gezirah,Cairo,14,43,Parking,3,Yes,12,10,40,18,5,31,7,52,10,25,19,11,12,15,332,1000,6050,694,2057,3551,4285
+Marriott Mena House,Cairo,38,57,Free Wi-Fi,4,Yes,8,13,20,12,16,46,15,40,19,25,12,14,11,15,300,1250,5108,502,1897,3720,4833
+Royal Maxim Palace Kempinski Cairo,Cairo,36,148,Spa,4,Yes,5,8,39,20,16,13,18,21,18,25,16,13,10,15,115,1200,6127,932,1688,3513,4244
+Triumph Luxury Hotel,Cairo,31,148,Restaurant,4,Yes,11,10,28,17,27,41,11,42,15,10,17,16,18,10,129,1350,5789,765,1916,3625,4714
+Tobiana Desert Lodging Negev,North Sinai,35,46,Pool,5,No,13,6,10,12,22,11,20,66,12,25,17,20,11,10,107,1300,6847,543,2349,3433,4331
+Zimmerbus,North Sinai,21,36,Spa,4,Yes,8,7,30,8,23,10,18,28,15,25,20,13,14,15,322,1450,5069,721,2243,3822,4743
+Shamballa Ezuz Desert Hospitality,North Sinai,28,111,Free Wi-Fi,4,Yes,10,6,13,14,28,31,14,57,16,25,18,16,13,15,461,1236,5032,514,2133,3034,4499
+Beat Hagras,Elmazarita,38,100,Parking,3,No,10,5,23,10,18,21,17,22,18,10,11,17,15,10,450,1546,6518,823,1905,3393,4689
+Dowr El omda,Elmazarita,39,143,Free Wi-Fi,5,Yes,18,4,37,16,17,31,11,12,18,25,19,14,19,15,122,1260,5051,540,2231,3192,4233
+The G Hotel,North coast,13,11,Spa,4,Yes,8,8,30,19,23,14,19,39,19,25,10,10,17,15,278,1450,6718,916,1925,3826,4252
+Crystal Inn Hotel,North coast,20,62,Restaurant,4,Yes,11,14,26,5,16,41,11,12,12,10,18,18,17,10,240,1234,5820,587,1613,3513,4034
+Porto Marina Resort,North coast,24,33,Parking,3,Yes,20,8,28,19,28,16,10,59,10,25,17,11,14,10,148,1432,5610,890,2038,3392,4940
+Regal Heights Hotel ,North coast,16,30,Free Wi-Fi,4,Yes,5,15,14,14,6,25,18,24,17,20,18,15,14,10,468,1250,6041,738,2323,3910,4805
+Grand Hotel Port Said,Port Said,22,97,Restaurant,2,Yes,8,5,35,19,5,49,8,22,18,10,10,19,19,10,120,1540,5071,636,1644,3547,4216
+Marom Hotels,Port Said,24,31,Free Wi-Fi,4,Yes,7,1,39,20,15,39,19,12,13,10,13,15,17,10,428,1450,5618,538,2493,3709,4881
+Baron Palace Hotel,Port Said,27,97,Spa,4,Yes,14,12,32,10,30,29,9,21,14,10,19,13,15,10,194,1325,6728,542,2383,3220,4614
+Palma Hotel,Port Said,28,114,Pool,1,No,9,12,23,16,18,50,7,36,12,10,17,16,12,10,133,1110,5475,551,1709,3340,4463
+Jewel El Gameel Hotel,Port Said,24,111,Parking,3,Yes,8,7,23,18,25,15,11,46,12,10,13,11,15,10,133,1350,5944,847,2030,3776,4635
+Steigenberger Nile Palace Luxor ,Luxor,10,132,Parking,3,Yes,5,6,32,13,6,20,19,31,17,10,17,11,15,10,157,1400,6146,822,2073,3013,4063
+Nile Panorama Hotel ,Luxor,33,108,Restaurant,4,Yes,15,4,31,13,17,29,10,26,11,25,18,13,13,15,262,1120,5751,932,1899,3867,4227
+Spirit Luxor Luxury,Luxor,32,125,Spa,5,Yes,7,9,33,6,16,27,15,26,10,25,14,20,13,15,419,1200,5321,931,1754,3397,4297
+Sofitel Winter Palace ,Luxor,29,127,Pool,3,No,14,14,27,7,19,46,18,39,13,10,12,19,11,10,110,1300,5805,929,1542,3540,4320
+Pavillon Winter,Luxor,38,47,Free Wi-Fi,4,Yes,19,14,11,7,5,27,16,63,12,25,15,16,11,15,495,1520,5532,856,1872,3502,4242
+Hapi Hotel ,Aswan,19,52,Parking,3,Yes,9,6,30,20,9,26,15,56,11,10,13,12,11,10,369,1500,5077,628,2385,3842,4721
+Citymax Hotel ,Aswan,24,109,Restaurant,3,Yes,7,8,36,10,17,17,20,35,11,25,15,11,14,15,318,1200,5471,765,1990,3762,4456
+Tolip Aswan Hotel,Aswan,28,50,Spa,4,Yes,6,8,19,17,14,28,7,38,15,10,16,13,19,10,453,1250,6190,619,2441,3878,4802
+Sofitel Legend Old Cataract,Aswan,32,43,Pool,5,No,12,3,27,15,21,47,8,50,18,10,20,11,12,10,455,1350,6187,799,1821,3506,4135
+Pyramisa Island Hotel ,Aswan,21,75,Free Wi-Fi,4,Yes,6,4,25,9,9,50,18,12,18,25,16,20,11,15,218,1320,6698,655,1712,3497,4383
+Ali Baba Safaga Hotel ,Hurghada,38,19,Pool,3,No,16,6,30,11,27,26,14,57,13,10,11,11,15,10,499,1400,6295,781,2292,3710,4689
+Serry Beach Resort,Hurghada,33,10,Spa,5,Yes,19,8,35,15,16,33,12,33,12,25,14,14,14,15,340,1500,5309,859,2389,3912,4759
+The Makadi Spa Hotel,Hurghada,40,93,Restaurant,4,Yes,18,10,24,6,26,15,9,23,13,25,18,17,19,15,299,1225,5501,636,2434,3916,4711
+Pickalbatros Blu Spa Resort ,Hurghada,25,149,Parking,3,Yes,6,9,15,14,27,46,20,35,19,10,16,13,10,10,382,1450,5674,994,1959,3716,4787
+Royal City Hotel,Hurghada,10,58,Free Wi-Fi,4,Yes,5,2,12,16,29,37,9,51,17,10,20,15,14,10,239,1422,5959,576,1517,3346,4757
+White Hills Resort,Sharm El Sheikh,40,101,Parking,5,Yes,16,10,39,8,6,33,9,20,17,10,16,12,11,10,326,1305,6000,738,2066,3393,4530
+El Khan Sharm Hotel,Sharm El Sheikh,13,31,Restaurant,4,Yes,19,10,38,13,11,12,9,33,12,10,12,15,11,10,100,1110,6227,635,2205,3478,4863
+Rixos Golf Villas And Suites,Sharm El Sheikh,30,29,Spa,4,Yes,13,2,28,20,18,43,20,67,11,25,13,20,12,15,218,1502,5237,892,2357,3427,4106
+Sunset Hotel ,Sharm El Sheikh,29,114,Pool,3,No,11,6,25,13,15,23,8,68,12,10,16,10,12,15,124,1355,5486,557,2488,3022,4593
+Old Vic Sharm Resort,Sharm El Sheikh,11,52,Free Wi-Fi,5,Yes,11,3,13,14,5,23,14,34,14,25,13,12,17,10,432,1222,5120,807,1673,3519,4311
+Hilton Alexandria Corniche,Alexandria,33,25,Parking,5,Yes,16,1,21,15,19,32,12,51,10,25,10,17,18,15,147,1400,5478,594,2050,3402,4622
+Romance Alexandria Hotel,Alexandria,12,44,Free Wi-Fi,4,No,19,5,31,11,21,29,18,58,17,10,17,10,13,10,347,1200,6254,927,2136,3898,4560
+Helnan Royal Hotel,Alexandria,26,37,Spa,5,Yes,7,2,18,11,29,13,13,34,15,25,18,18,10,5,114,1500,5262,625,2243,3500,4116
+Sheraton Montazah Hotel,Alexandria,38,128,Parking,3,Yes,15,12,22,17,5,11,13,16,16,10,17,12,10,10,497,1325,5364,845,1915,3652,4204
+TOLIP Hotel Alexandria,Alexandria,16,30,Spa,5,No,16,12,35,12,22,50,15,25,12,25,19,13,10,15,337,1520,5254,602,1541,3273,4361
+The Chedi,Gouna,34,124,Spa,5,No,12,5,14,12,13,43,7,15,13,25,13,14,12,10,238,1430,5118,934,2071,3842,4626
+Casa Cook,Gouna,37,68,Parking,4,Yes,16,7,12,11,22,32,9,43,10,10,11,19,13,15,427,1500,6172,542,2257,3022,4624
+Ali Pasha Hotel,Gouna,36,145,Free Wi-Fi,5,Yes,16,6,40,20,18,17,15,13,17,25,20,11,19,5,242,1226,5800,713,1758,3680,4702
